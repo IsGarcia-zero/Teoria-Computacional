@@ -17,3 +17,4 @@ Respecto a los desarrollados en C# se desarrollaron en el IDE Visual Studio 2022
 - Programa 3 (Protocolo) >Grafo<: Este programa fue realizado en .Net Core 6.
 - Programa 4 (Buscador de Palabras): Este programa fue realizado en .Net Core 6.
 - Programa 4 (Buscador de Palabras) >Grafo<: Este programa fue realizado con nodejs y React.
+- Programa 5 (Chessboard): Este programa fue realizado en .net Core 6.
