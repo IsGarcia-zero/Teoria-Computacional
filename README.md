@@ -10,5 +10,6 @@ Respecto a los desarrollados en C# se desarrollaron en el IDE Visual Studio 2022
 ### Listado de programas
 
 - Programa 1 (Universo): El programa 1 fue desarrollado con .Net Core 6.
-- Programa 1 >Gráficas<: Este programa realizado para graficar fue desarrollado con .Net Framework 4.8.
-- Programa 2 (Números Primos): Este programa fue realizado en .Net Core 6
+- Programa 1 (Universo) >Gráficas<: Este programa realizado para graficar fue desarrollado con .Net Framework 4.8.
+- Programa 2 (Números Primos): Este programa fue realizado en .Net Core 6.
+- Programa 2 (Números Primos) >Gráficas<: Este programa realizado para graficar fue desarrollado con .Net Framework 4.8.
