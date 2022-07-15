@@ -20,3 +20,4 @@ Respecto a los desarrollados en C# se desarrollaron en el IDE Visual Studio 2022
 - Programa 5 (Chessboard): Este programa fue realizado en .Net Core 6.
 - Programa 6 (PushDownAutomata): Este programa fue realizado en .Net Core 6.
 - Programa 7 (Máquina de Turing): Este programa fue realizado en .Net Core 6.
+#### Reportes Hechos con LATEX, sin embargo solo proporcionare el PDF
